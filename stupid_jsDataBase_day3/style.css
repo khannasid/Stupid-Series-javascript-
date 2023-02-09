@@ -1,0 +1,18 @@
+body{
+    margin: 30px;
+
+}
+.contain{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.container{
+    padding: 3em;
+}
+.btnedit{
+    color: aquamarine; cursor: pointer;
+}
+.btndelete{
+    color:coral; cursor: pointer
+}
