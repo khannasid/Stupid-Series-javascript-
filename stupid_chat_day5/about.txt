@@ -1,0 +1,19 @@
+1. Mongoose is a mongoDB object modeling tool
+    designed to work in an asynchronous environment.
+
+2. We use nodemon to make automatic detection of any changes
+
+3. In the package.json file we will required to add "start" script 
+    so that nodemon will start running with "npm start" command!!
+    
+4. Routing refers to how an application's endpoints (URIs) respond
+    to client requests. We can define routing using methods of the Express app object
+    that correspond to HTTP methods:app.get() to handle GET requests and app.post()
+    to handle POST requests.
+
+5. Socket.io is a JavaScript library for realtime web applications. It 
+    enables realtime, bi-directional communication between web clients and 
+    server. It has two parts: a Client-Side library that runs in the browser and 
+    a Server-Side library for Node.js. 
+
+6. To work with Socket.io we also need an HTTP package.
